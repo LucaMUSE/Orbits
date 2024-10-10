@@ -1,4 +1,3 @@
-
 print("Hello world")
 
 from numpy import array, zeros, linspace, sin, pi 
@@ -10,4 +9,3 @@ y = sin( 2*pi*t )
 
 plt.plot(t,y)
 plt.show()
-
