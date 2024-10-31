@@ -1,8 +1,7 @@
 
-# Uncommet if these packahes are not installed 
-#import Pkg 
-#Pkg.add("NonlinearSolve") 
-#Pkg.add("LinearAlgebra")
+import Pkg 
+Pkg.add("NonlinearSolve") 
+Pkg.add("LinearAlgebra")
 
 using NonlinearSolve
 using LinearAlgebra
